@@ -7,9 +7,9 @@ Spamming in tg
   <b>MukeshxSpam   X sᴘᴀᴍ</b>
 </h1>
 
-[![Forks](https://img.shields.io/github/forks/MrRizoel/RiZoeLXSpam?style=flat-square&color=orange)](https://github.com/MrRizoel/RiZoeLXSpam/fork)
+[![Forks](https://img.shields.io/github/forks/itz-mst-boy/RiZoeLXSpam?style=flat-square&color=orange)](https://github.com/itz-mst-boy/MukeshxSpam/fork)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrRizoel/RiZoeLXSpam)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/itz-mst-boy/MukeshxSpam)   
 ----
  
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
@@ -21,7 +21,7 @@ Spamming in tg
 
 ### Generate string session from below:
 
-[![GenerateString](https://img.shields.io/badge/RiZoeLXSpam-String-yellowgreen)](https://replit.com/@RiZoeL/RiZoeLXSpam#main.py) ``Telethon``
+[![GenerateString](https://img.shields.io/badge/MukeshxSpam-String-yellowgreen)](https://replit.com/@RiZoeL/MukeshxSpam#main.py) ``Telethon``
 
 # Deploy on heroku
 
