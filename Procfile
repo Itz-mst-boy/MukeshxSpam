@@ -1,1 +1,1 @@
-worker: bash MukeshxSpam
+Riz: python -m MukeshxSpam
