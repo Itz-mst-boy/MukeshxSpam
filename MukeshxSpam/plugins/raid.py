@@ -84,7 +84,7 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on @itz_mst_boy Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
