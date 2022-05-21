@@ -3,7 +3,7 @@ import os
 import sys
 import git
 from telethon import events
-from RiZoeLXSpam import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, Riz11, Riz12, Riz13, Riz14, Riz15, Riz16, Riz17, Riz18, Riz19, Riz20, Riz21, Riz22, Riz23, Riz24, Riz25, Riz26, Riz27, Riz28, Riz29, Riz30, Riz31, Riz32, Riz33, Riz34, Riz35, Riz36, Riz37, Riz38, Riz39, Riz40, DEV, HEROKU_APP_NAME, HEROKU_API_KEY
+from MukeshxSpam import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, Riz11, Riz12, Riz13, Riz14, Riz15, Riz16, Riz17, Riz18, Riz19, Riz20, Riz21, Riz22, Riz23, Riz24, Riz25, Riz26, Riz27, Riz28, Riz29, Riz30, Riz31, Riz32, Riz33, Riz34, Riz35, Riz36, Riz37, Riz38, Riz39, Riz40, DEV, HEROKU_APP_NAME, HEROKU_API_KEY
 from .. import CMD_HNDLR as hl
 
 # -- Constants -- #
@@ -183,7 +183,7 @@ def generate_change_log(git_repo, diff_marker):
 async def deploy_start(Riz, message, refspec, remote):
     await message.edit(RESTARTING_APP)
     await message.edit(
-        "__Updated your Mukesh X Spam successfully sur__ !!!\n\n © @RiZoeLX"
+        "__Updated your Mukesh X Spam successfully sur__ !!!\n\n © @itz_mst_boy"
     )
     await remote.push(refspec=refspec)
     await Riz.disconnect()
