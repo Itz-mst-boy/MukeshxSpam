@@ -1,4 +1,4 @@
-#MukeshxSpam By @TheRiZoeL
+#MukeshxSpam By @itz_mst_boy
 
 import asyncio
 import sys
